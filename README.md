@@ -34,8 +34,4 @@ To integrate the Stripe payment gateway into your application, follow the guidel
 
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please submit them as issues or pull requests in this repository.
 
-## Contact
-
-For any further questions or inquiries, please contact Dhananjay at dhananjaysakeesoft@gmail.com.
-
 
